@@ -1,6 +1,6 @@
 <img src="https://www.digitalsolutionservices.com/img/services/website1.gif">
 <h1 align="center">Hi 👋, I'm Anar Ismayilov</h1>
-<h3 align="center">A passionate Frontend developer | Mobile Flutter from Poland</h3>
+<h3 align="center">A passionate Frontend developer | Mobile Flutter developer from Poland</h3>
 <img align="right" width="400" alt="coding" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer2507&label=Profile%20views&color=0e75b6&style=flat" alt="developer2507" /> </p>
