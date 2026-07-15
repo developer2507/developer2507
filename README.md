@@ -225,19 +225,23 @@ const anar = {
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=developer2507&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=A78BFA&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub statistics" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer2507&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Most used languages" />
-
-</div>
-
-<br/>
+## 📊 GitHub at a Glance
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=developer2507&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&ring=7C3AED&fire=F97316&currStreakLabel=58A6FF" alt="GitHub streak" />
+<img src="https://img.shields.io/github/followers/developer2507?label=Followers&style=for-the-badge&color=7C3AED&labelColor=18181B" />
+
+<img src="https://img.shields.io/github/stars/developer2507?label=Total%20Stars&style=for-the-badge&color=2563EB&labelColor=18181B" />
+
+<img src="https://komarev.com/ghpvc/?username=developer2507&label=Profile%20Visitors&color=0891B2&style=for-the-badge" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Focus-AI%20Engineering-A78BFA?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Full--Stack-Development-58A6FF?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Mobile-Flutter-22D3EE?style=for-the-badge&logo=flutter&logoColor=white" />
 
 </div>
 
