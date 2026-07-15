@@ -1,105 +1,119 @@
+<!-- Animated header -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=200&section=header&text=Anar%20Ismayilov&fontSize=45&fontColor=FFFFFF&fontAlignY=35&desc=AI%20Engineer%20%7C%20Python%20Developer&descSize=18&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,14,18,20,24&text=Anar%20Ismayilov&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Building%20intelligent%20and%20beautiful%20digital%20products&descSize=17&descAlignY=55&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&random=false&width=700&lines=Building+intelligent+AI-powered+solutions;Exploring+LLMs+and+AI+Agents;Developing+with+Python+and+FastAPI;Turning+ideas+into+real-world+products"
-    alt="Typing animation"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&repeat=true&random=false&width=850&height=60&lines=AI+Engineer+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;Flutter+Developer+%F0%9F%93%B1;Building+ideas+into+real-world+products+%F0%9F%9A%80"
+    alt="Animated typing"
   />
 </a>
 
 <br/>
 
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/anar-ismayilov/)">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=developer2507&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge" />
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:anar.ismahilov@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=developer2507&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<!-- About section -->
 
-I'm an **AI Engineer and Python Developer** focused on building intelligent, practical and scalable software solutions.
+<table>
+<tr>
+<td width="58%" valign="top">
 
-I enjoy exploring how artificial intelligence can be integrated into real-world products — from LLM-powered applications and AI agents to data-driven systems and computer vision.
+## 👋 About Me
 
-- 🤖 Interested in Artificial Intelligence, LLMs and AI Agents
-- 🐍 Building backend systems and AI services with Python
-- 🧠 Exploring machine learning and computer vision
-- ⚙️ Working with APIs, databases and production AI systems
-- 🚀 Interested in SaaS products and technology startups
-- 📚 Continuously learning and experimenting with new technologies
-- 🌍 Open to remote AI Engineering opportunities
+I'm an **AI Engineer, Full-Stack Developer and Flutter Developer** who enjoys transforming ideas into useful digital products.
+
+I work across the entire development process — from designing intelligent backend systems and APIs to creating modern web and mobile interfaces.
+
+- 🤖 Building AI-powered applications and intelligent systems
+- 🌐 Developing modern full-stack web applications
+- 📱 Creating cross-platform mobile apps with Flutter
+- 🐍 Working with Python, FastAPI and AI technologies
+- ⚡ Building responsive interfaces with Next.js and React
+- 🗄️ Designing backend systems and database architectures
+- 🚀 Interested in SaaS, startups and real-world products
+- 🌍 Open to remote opportunities and collaboration
 - 📍 Based in Baku, Azerbaijan
 
+</td>
+<td width="42%" align="center">
+
+<img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation" />
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 🧠 Areas of Interest
+## ✨ What I Do
 
 <div align="center">
 
-![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-111827?style=for-the-badge&logo=openai&logoColor=38BDF8)
-![LLM Applications](https://img.shields.io/badge/LLM_Applications-111827?style=for-the-badge&logo=probot&logoColor=38BDF8)
-![AI Agents](https://img.shields.io/badge/AI_Agents-111827?style=for-the-badge&logo=robotframework&logoColor=38BDF8)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-111827?style=for-the-badge&logo=scikitlearn&logoColor=38BDF8)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-111827?style=for-the-badge&logo=opencv&logoColor=38BDF8)
-![Backend Development](https://img.shields.io/badge/Backend_Development-111827?style=for-the-badge&logo=fastapi&logoColor=38BDF8)
+| 🤖 AI Engineering | 🌐 Full-Stack Development | 📱 Flutter Development |
+|:---:|:---:|:---:|
+| LLM-powered applications | Modern web applications | Cross-platform mobile apps |
+| AI agents and automation | Frontend and backend systems | Responsive mobile interfaces |
+| Intelligent data processing | REST APIs and databases | API and service integrations |
+| Production AI integrations | Authentication and deployment | Android and iOS development |
 
 </div>
 
 ---
 
-## 🛠️ Technologies and Tools
+## 🧰 Technology Stack
 
-### AI and Data
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM_APIs-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-</p>
-
-### Backend and Databases
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,mysql&theme=dark" />
-</p>
-
-### Development and Deployment
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel&theme=dark" />
-</p>
-
----
-
-## 📈 GitHub Activity
+### 🤖 AI and Data
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=developer2507&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF" />
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer2507&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF" />
+<br/><br/>
+
+<img src="https://img.shields.io/badge/LLM_APIs-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Agents-7C3AED?style=for-the-badge&logo=probot&logoColor=white" />
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 
 </div>
 
+### 🌐 Full-Stack Development
+
 <div align="center">
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=developer2507&bg_color=0D1117&color=38BDF8&line=2563EB&point=FFFFFF&area=true&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,fastapi&theme=dark" />
+
+</div>
+
+### 📱 Mobile Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=dart,flutter,firebase&theme=dark" />
+
+</div>
+
+### 🗄️ Databases and Development Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,git,github,vscode,postman&theme=dark" />
 
 </div>
 
@@ -107,26 +121,38 @@ I enjoy exploring how artificial intelligence can be integrated into real-world 
 
 ## 🎯 Current Focus
 
-```python
-anar = {
-    "role": "AI Engineer",
-    "languages": ["Python", "SQL", "JavaScript"],
-    "interests": [
+```typescript
+const anar = {
+    roles: [
+        "AI Engineer",
+        "Full-Stack Developer",
+        "Flutter Developer"
+    ],
+
+    building: [
+        "AI-powered applications",
+        "Full-stack web platforms",
+        "Cross-platform mobile apps",
+        "Scalable backend systems"
+    ],
+
+    interestedIn: [
         "Large Language Models",
         "AI Agents",
-        "Machine Learning",
-        "Computer Vision",
-        "Backend Development",
-        "AI-powered SaaS"
+        "SaaS Products",
+        "Web and Mobile Development",
+        "Technology Startups"
     ],
-    "currently_learning": [
-        "Advanced LLM Systems",
-        "Agentic Workflows",
-        "Production AI Engineering"
+
+    currentlyLearning: [
+        "Advanced AI Engineering",
+        "Reliable LLM Systems",
+        "Scalable Software Architecture"
     ],
-    "open_to": [
-        "AI Engineering opportunities",
-        "Remote work",
+
+    openTo: [
+        "Remote opportunities",
+        "Interesting projects",
         "Startup collaboration"
     ]
-}
+};
