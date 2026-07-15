@@ -1,114 +1,132 @@
-<h1 align="center">Hi, I'm Anar Ismayilov 👋</h1>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=200&section=header&text=Anar%20Ismayilov&fontSize=45&fontColor=FFFFFF&fontAlignY=35&desc=AI%20Engineer%20%7C%20Python%20Developer&descSize=18&descAlignY=55&animation=fadeIn" />
+
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&random=false&width=700&lines=Building+intelligent+AI-powered+solutions;Exploring+LLMs+and+AI+Agents;Developing+with+Python+and+FastAPI;Turning+ideas+into+real-world+products"
+    alt="Typing animation"
+  />
+</a>
+
+<br/>
+
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/anar-ismayilov/)">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:anar.ismahilov@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=developer2507&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm an **AI Engineer and Python Developer** focused on building intelligent, practical and scalable software solutions.
+
+I enjoy exploring how artificial intelligence can be integrated into real-world products — from LLM-powered applications and AI agents to data-driven systems and computer vision.
+
+- 🤖 Interested in Artificial Intelligence, LLMs and AI Agents
+- 🐍 Building backend systems and AI services with Python
+- 🧠 Exploring machine learning and computer vision
+- ⚙️ Working with APIs, databases and production AI systems
+- 🚀 Interested in SaaS products and technology startups
+- 📚 Continuously learning and experimenting with new technologies
+- 🌍 Open to remote AI Engineering opportunities
+- 📍 Based in Baku, Azerbaijan
+
+---
+
+## 🧠 Areas of Interest
+
+<div align="center">
+
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-111827?style=for-the-badge&logo=openai&logoColor=38BDF8)
+![LLM Applications](https://img.shields.io/badge/LLM_Applications-111827?style=for-the-badge&logo=probot&logoColor=38BDF8)
+![AI Agents](https://img.shields.io/badge/AI_Agents-111827?style=for-the-badge&logo=robotframework&logoColor=38BDF8)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-111827?style=for-the-badge&logo=scikitlearn&logoColor=38BDF8)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-111827?style=for-the-badge&logo=opencv&logoColor=38BDF8)
+![Backend Development](https://img.shields.io/badge/Backend_Development-111827?style=for-the-badge&logo=fastapi&logoColor=38BDF8)
+
+</div>
+
+---
+
+## 🛠️ Technologies and Tools
+
+### AI and Data
 
 <p align="center">
-  <strong>AI Engineer · Python Backend Developer · SaaS Founder</strong>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" />
 </p>
 
 <p align="center">
-  I build AI-powered products, intelligent agents and computer vision systems.
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM_APIs-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
 </p>
 
+### Backend and Databases
+
 <p align="center">
-  <a href="https://cresumely.com">Cresumely</a> •
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,mysql&theme=dark" />
+</p>
+
+### Development and Deployment
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel&theme=dark" />
 </p>
 
 ---
 
-## About me
+## 📈 GitHub Activity
 
-- 🤖 Building production-oriented AI applications and LLM-powered systems
-- 🚀 Founder of [Cresumely](https://cresumely.com), an AI platform for creating ATS-optimized resumes and cover letters
-- 🧠 Interested in AI agents, natural-language data analysis and computer vision
-- ⚙️ Working with Python, FastAPI, PostgreSQL and modern LLM APIs
-- 📍 Based in Baku, Azerbaijan — open to remote opportunities
-- 🌍 Languages: Azerbaijani, Russian and English
+<div align="center">
 
-## Featured projects
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=developer2507&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF" />
 
-### 🚀 Cresumely
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer2507&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF" />
 
-AI-powered SaaS that helps job seekers tailor resumes and cover letters to specific job descriptions.
+</div>
 
-**Key features:**
+<div align="center">
 
-- Resume and job-description analysis
-- ATS-focused content generation
-- Structured AI responses
-- PDF export and subscription plans
-- Asynchronous generation workflows
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=developer2507&bg_color=0D1117&color=38BDF8&line=2563EB&point=FFFFFF&area=true&hide_border=true" />
 
-`Python` `FastAPI` `PostgreSQL` `Next.js` `LLM APIs`
+</div>
 
 ---
 
-### 📊 AI Database Analyst
+## 🎯 Current Focus
 
-An AI agent that allows non-technical users to analyze PostgreSQL data using natural-language questions.
-
-**Key features:**
-
-- Natural language to SQL
-- Schema and relationship understanding
-- Clarifying questions for ambiguous requests
-- Tables, calculations and charts
-- Bilingual Russian and English interface
-- Excel report export
-
-`Python` `LangChain` `FastAPI` `PostgreSQL` `LLM Agents`
-
----
-
-### 🚘 ANPR Smart Gate
-
-An automatic vehicle access system that recognizes license plates and controls barrier gates.
-
-**Key features:**
-
-- Real-time license plate detection
-- OCR-based plate recognition
-- Permanent and temporary access permissions
-- Entry logs and barrier management
-- Manual gate control from an admin panel
-
-`Python` `YOLOv8` `OpenCV` `EasyOCR` `PostgreSQL`
-
-## Tech stack
-
-### AI and data
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-### Backend and databases
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
-
-### Product development
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-## Current focus
-
-- Designing reliable LLM agents
-- Improving AI response accuracy and validation
-- Building production-ready AI SaaS products
-- Exploring computer vision and edge AI
-
-## Let's connect
-
-I'm interested in AI engineering opportunities, startup collaboration and building useful AI products.
-
-📧 **Email:** YOUR_EMAIL  
-🌐 **Product:** [cresumely.com](https://cresumely.com)  
-💼 **LinkedIn:** [Anar Ismayilov](YOUR_LINKEDIN_URL)
+```python
+anar = {
+    "role": "AI Engineer",
+    "languages": ["Python", "SQL", "JavaScript"],
+    "interests": [
+        "Large Language Models",
+        "AI Agents",
+        "Machine Learning",
+        "Computer Vision",
+        "Backend Development",
+        "AI-powered SaaS"
+    ],
+    "currently_learning": [
+        "Advanced LLM Systems",
+        "Agentic Workflows",
+        "Production AI Engineering"
+    ],
+    "open_to": [
+        "AI Engineering opportunities",
+        "Remote work",
+        "Startup collaboration"
+    ]
+}
