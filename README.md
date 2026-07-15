@@ -1,21 +1,114 @@
-<img src="https://www.digitalsolutionservices.com/img/services/website1.gif">
-<h1 align="center">Hi 👋, I'm Anar Ismayilov</h1>
-<h3 align="center">A passionate Frontend developer | Mobile Flutter developer from Poland</h3>
-<img align="right" width="400" alt="coding" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<h1 align="center">Hi, I'm Anar Ismayilov 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=developer2507&label=Profile%20views&color=0e75b6&style=flat" alt="developer2507" /> </p>
-
-- 📫 How to reach me **anar.ismahilov@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <strong>AI Engineer · Python Backend Developer · SaaS Founder</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  I build AI-powered products, intelligent agents and computer vision systems.
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developer2507&show_icons=true&locale=en&layout=compact" alt="developer2507" /></p>
+<p align="center">
+  <a href="https://cresumely.com">Cresumely</a> •
+  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
+  <a href="mailto:YOUR_EMAIL">Email</a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developer2507&show_icons=true&locale=en" alt="developer2507" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developer2507&" alt="developer2507" /></p>
+## About me
+
+- 🤖 Building production-oriented AI applications and LLM-powered systems
+- 🚀 Founder of [Cresumely](https://cresumely.com), an AI platform for creating ATS-optimized resumes and cover letters
+- 🧠 Interested in AI agents, natural-language data analysis and computer vision
+- ⚙️ Working with Python, FastAPI, PostgreSQL and modern LLM APIs
+- 📍 Based in Baku, Azerbaijan — open to remote opportunities
+- 🌍 Languages: Azerbaijani, Russian and English
+
+## Featured projects
+
+### 🚀 Cresumely
+
+AI-powered SaaS that helps job seekers tailor resumes and cover letters to specific job descriptions.
+
+**Key features:**
+
+- Resume and job-description analysis
+- ATS-focused content generation
+- Structured AI responses
+- PDF export and subscription plans
+- Asynchronous generation workflows
+
+`Python` `FastAPI` `PostgreSQL` `Next.js` `LLM APIs`
+
+---
+
+### 📊 AI Database Analyst
+
+An AI agent that allows non-technical users to analyze PostgreSQL data using natural-language questions.
+
+**Key features:**
+
+- Natural language to SQL
+- Schema and relationship understanding
+- Clarifying questions for ambiguous requests
+- Tables, calculations and charts
+- Bilingual Russian and English interface
+- Excel report export
+
+`Python` `LangChain` `FastAPI` `PostgreSQL` `LLM Agents`
+
+---
+
+### 🚘 ANPR Smart Gate
+
+An automatic vehicle access system that recognizes license plates and controls barrier gates.
+
+**Key features:**
+
+- Real-time license plate detection
+- OCR-based plate recognition
+- Permanent and temporary access permissions
+- Entry logs and barrier management
+- Manual gate control from an admin panel
+
+`Python` `YOLOv8` `OpenCV` `EasyOCR` `PostgreSQL`
+
+## Tech stack
+
+### AI and data
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+### Backend and databases
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
+
+### Product development
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+## Current focus
+
+- Designing reliable LLM agents
+- Improving AI response accuracy and validation
+- Building production-ready AI SaaS products
+- Exploring computer vision and edge AI
+
+## Let's connect
+
+I'm interested in AI engineering opportunities, startup collaboration and building useful AI products.
+
+📧 **Email:** YOUR_EMAIL  
+🌐 **Product:** [cresumely.com](https://cresumely.com)  
+💼 **LinkedIn:** [Anar Ismayilov](YOUR_LINKEDIN_URL)
