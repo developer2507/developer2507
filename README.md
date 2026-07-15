@@ -223,8 +223,6 @@ const anar = {
 
 <!-- ======================== STATISTICS ======================== -->
 
-## 📊 GitHub Statistics
-
 ## 📊 GitHub at a Glance
 
 <div align="center">
