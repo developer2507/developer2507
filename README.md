@@ -14,7 +14,9 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=developer2507&label=PROFILE+VISITORS&color=7C3AED&style=for-the-badge" />
-
+<a href="https://www.linkedin.com/in/anar-ismayilov/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 <a href="mailto:anar.ismahilov@gmail.com">
   <img src="https://img.shields.io/badge/Email-Say_Hello!-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
