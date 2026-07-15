@@ -4,12 +4,14 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=6,11,20,24,30&text=Hey,%20I'm%20Anar!%20👋&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20•%20Full-Stack%20Developer%20•%20Flutter%20Developer&descSize=17&descAlignY=55&animation=fadeIn" />
 
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&repeat=true&random=false&width=850&height=70&lines=Turning+coffee+into+code+☕+→+💻;Building+AI-powered+things+🤖;Creating+web+and+mobile+apps+🚀;Fixing+bugs+I+created+yesterday+🐛;Making+ideas+come+alive+✨"
-    alt="Typing animation"
-  />
-</a>
+<div align="center">
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=23&amp;duration=2600&amp;pause=700&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;random=false&amp;width=850&amp;height=70&amp;lines=AI+Engineer+by+day;Bug+fixer+by+night;Full-Stack+Developer;Flutter+Developer;Turning+coffee+into+code;Building+ideas+into+real+products"
+  alt="Typing SVG"
+/>
+
+</div>
 
 <br/>
 
