@@ -304,6 +304,10 @@ I'm always happy to talk about **AI, web development, mobile applications, SaaS,
 
 <br/>
 
+<a href="https://www.linkedin.com/in/anar-ismayilov/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 <a href="mailto:anar.ismahilov@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
